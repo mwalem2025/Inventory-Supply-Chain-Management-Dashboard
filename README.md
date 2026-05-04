@@ -43,4 +43,5 @@ This dashboard provides key insights into inventory performance, logistics costs
 - Optimize inventory levels by category
 - Reduce backorders and improve fulfillment
 
-3. Refresh data source if applicable
+3. Reference of the data set and training. 
+   @pianalytiX 
