@@ -6,7 +6,7 @@
 
 This dashboard provides key insights into inventory performance, logistics costs, lead times, and backorder trends across different regions and product categories.
 
-## 📊 Key Metrics
+## Key KPI Metrics 
 
 | Metric | Value |
 |--------|-------|
